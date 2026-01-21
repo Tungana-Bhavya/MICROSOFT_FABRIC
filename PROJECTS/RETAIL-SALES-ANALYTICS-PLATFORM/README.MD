@@ -25,6 +25,11 @@ I **built** this project to understand the concept of the **Medallion Architectu
 •	Lakehouse with Schema Support enabled.</br>
 •	Spark compute to run the notebooks.</br>
 
+### Project Structure
+•	notebooks/: Contains PySpark logic with visible execution outputs and data profiles.
+•	data/: Includes the raw source CSV file used for the transformation.
+•	images/: Documentation of the Lakehouse explorer and table schemas.
+
 ### Future Goals
 •	**Handle more data:** Work with multiple files types and much larger data volumes.</br>
 •	**Use SQL:** Build **SQL** views to make it easier to query the data.</br>
