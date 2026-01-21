@@ -26,9 +26,9 @@ I **built** this project to understand the concept of the **Medallion Architectu
 •	Spark compute to run the notebooks.</br>
 
 ### Project Structure
-•	NOTEBOOK: Contains PySpark logic with visible execution outputs and data profiles.</br>
-•	DATA: Includes the raw source CSV file used for the transformation.</br>
-•	IMAGES: Documentation of work including Lakehouse explorer, table schemas, and many more.</br>
+•	NOTEBOOK: **Contains** PySpark logic with visible execution outputs and data profiles.</br>
+•	DATA: **Includes** the raw source CSV file used for the transformation.</br>
+•	IMAGES: **Documentation** of work including Lakehouse explorer, table schemas, and many more.</br>
 
 ### Future Goals
 •	**Handle more data:** Work with multiple files types and much larger data volumes.</br>
